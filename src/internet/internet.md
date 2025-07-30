@@ -1,4 +1,15 @@
 # 📘 Fundamentos da Web
+> Nos fundamentos, aboradaremos a parte mais básica da web, uma compreenção simplória de como tudo funciona. Aprenderemos tambem o básico sobre utilização de comandos em linha, que ajudão muito no dia a dia.
+
+## Módulos do projeto
+- [Voltar ao menu](../README.md)
+- [HTML- Em desenvolvimento]()
+- [CSS- Em breve]()
+- [Javascript - Em breve]()
+- [GIT Github - Em breve]()
+- [NPM - Em breve]()
+- [Testes - Em breve]()
+
 ## 🤔 O que é isso?
 ### 🌐 Página na internet
 > É um documento HTML acessado via navegador. Pode conter estilos (CSS), scripts (JavaScript) e mídia (imagens, vídeos, etc).
@@ -81,3 +92,6 @@ Se você usa Windows, instale o WSL (Windows Subsystem for Linux). Ele permite u
 
 - [🎥 Diolinux – Comandos básicos no terminal (YouTube)](https://www.youtube.com/watch?v=JEhVB4VHsTI)
 - [📖 MDN Docs – Introdução à linha de comandoo](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line)
+
+### ⛳ Desafios e exercicios
+[Exercicios.md](./exercicios.md)

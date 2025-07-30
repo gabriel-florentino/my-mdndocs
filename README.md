@@ -1,5 +1,14 @@
-# My MDN Docs 🚀
+# 🚀 My MDN Docs 
 > Uma jornada prática e documentada pelos fundamentos da web — com didática simples, desafios e exemplos reais.
+
+## 🎓 Módulos do projeto
+- [Internet](./src/internet.md)
+- [HTML- Em desenvolvimento]()
+- [CSS- Em breve]()
+- [Javascript - Em breve]()
+- [GIT Github - Em breve]()
+- [NPM - Em breve]()
+- [Testes - Em breve]()
 
 ## 📚 Sobre o projeto
 My MDN Docs é um repositório pessoal de estudos sobre tecnologias fundamentais da web (HTML, CSS, JavaScript e muito mais), baseado nos conteúdos da [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started). A proposta é transformar minha jornada de aprendizado e revisão em um repositório público de conhecimento que:
