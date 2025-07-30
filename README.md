@@ -2,7 +2,7 @@
 > Uma jornada prática e documentada pelos fundamentos da web — com didática simples, desafios e exemplos reais.
 
 ## 🎓 Módulos do projeto
-- [Internet](./src/internet.md)
+- [Internet](./src/internet/internet.md)
 - [HTML- Em desenvolvimento]()
 - [CSS- Em breve]()
 - [Javascript - Em breve]()

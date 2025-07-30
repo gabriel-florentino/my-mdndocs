@@ -2,7 +2,7 @@
 > Nos fundamentos, aboradaremos a parte mais básica da web, uma compreenção simplória de como tudo funciona. Aprenderemos tambem o básico sobre utilização de comandos em linha, que ajudão muito no dia a dia.
 
 ## Módulos do projeto
-- [Voltar ao menu](../README.md)
+- [Voltar ao menu](../../README.md)
 - [HTML- Em desenvolvimento]()
 - [CSS- Em breve]()
 - [Javascript - Em breve]()
