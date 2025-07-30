@@ -56,16 +56,48 @@ Se você usa Windows, instale o WSL (Windows Subsystem for Linux). Ele permite u
 
 ### 🧪 Comandos básicos
 #### 📁 Navegação e manipulação
-| Comando | Descrição                                     |
-| ------- | --------------------------------------------- |
-| `cd`    | Navega entre diretórios                       |
-| `mkdir` | Cria pastas                                   |
-| `touch` | Cria arquivos ou atualiza data de modificação |
-| `cp`    | Copia arquivos ou diretórios                  |
-| `mv`    | Move ou renomeia arquivos                     |
-| `rm`    | Exclui arquivos ou diretórios                 |
-| `ls`    | Lista arquivos e pastas                       |
-| `wc`    | Conta linhas, palavras ou caracteres          |
+<table>
+  <thead>
+    <tr>
+      <th>Comando</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>cd</code></td>
+      <td>Navega entre diretórios</td>
+    </tr>
+    <tr>
+      <td><code>mkdir</code></td>
+      <td>Cria pastas</td>
+    </tr>
+    <tr>
+      <td><code>touch</code></td>
+      <td>Cria arquivos ou atualiza data de modificação</td>
+    </tr>
+    <tr>
+      <td><code>cp</code></td>
+      <td>Copia arquivos ou diretórios</td>
+    </tr>
+    <tr>
+      <td><code>mv</code></td>
+      <td>Move ou renomeia arquivos</td>
+    </tr>
+    <tr>
+      <td><code>rm</code></td>
+      <td>Exclui arquivos ou diretórios</td>
+    </tr>
+    <tr>
+      <td><code>ls</code></td>
+      <td>Lista arquivos e pastas</td>
+    </tr>
+    <tr>
+      <td><code>wc</code></td>
+      <td>Conta linhas, palavras ou caracteres</td>
+    </tr>
+  </tbody>
+</table>
 
 #### 🌐 Baixar arquivos
 `curl` – Faz requisições HTTP e baixa arquivos via URL
@@ -82,11 +114,28 @@ Se você usa Windows, instale o WSL (Windows Subsystem for Linux). Ele permite u
 `awk`, `tr`, `sed` – Editam, substituem ou formatam texto de forma automatizada
 
 #### 🔗 Operadores úteis   
-| Comando | Descrição                                     |
-| ------- | --------------------------------------------- |               
-|`..` |	Sobe um nível no diretório |
-|`-l` |	Exibe listagem detalhada |
-|`-r` |	Excluir tudo dentro de uma pasta |
+<table>
+  <thead>
+    <tr>
+      <th>Comando</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>..</code></td>
+      <td>Sobe um nível no diretório</td>
+    </tr>
+    <tr>
+      <td><code>-l</code></td>
+      <td>Exibe listagem detalhada</td>
+    </tr>
+    <tr>
+      <td><code>-r</code></td>
+      <td>Excluir tudo dentro de uma pasta</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 📎 Links para aprofundamento
 
