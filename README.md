@@ -3,6 +3,7 @@
 
 ## 🎓 Módulos do projeto
 - [Internet](./src/internet/internet.md)
+- [Meu primeiro site - Em desenvolvimento](https://github.com/gabriel-florentino/curriculo)
 - [HTML- Em desenvolvimento]()
 - [CSS- Em breve]()
 - [Javascript - Em breve]()
